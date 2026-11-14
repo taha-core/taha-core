@@ -56,3 +56,23 @@ Karachi, Pakistan | 2026 – Present
 <p align="center">
   <code>Problem Solving</code> · <code>Teamwork</code> · <code>Communication (B2 English)</code> · <code>Adaptability</code>
 </p>
+
+## 💼 Work Experience
+
+### Ecommerce Associate
+**SPCTEK** · Full-time  
+*Dec 2025 – Sep 2026 | On-site*
+
+Worked on e-commerce operations across multiple marketplaces, managing product listings, monitoring sales performance, supporting inventory management, and maintaining accurate product catalogs.
+
+### Amazon Catalog Management Specialist
+**PDMG (Palmetto Digital Marketing Group)** · Full-time  
+*Apr 2024 – Sep 2025 | Remote*
+
+Managed Amazon catalog operations, including FBA shipment creation, inventory replenishment, stranded inventory resolution, and new product listing creation. Optimized product detail pages through improved titles, bullet points, images, and backend keywords. Monitored account health, resolved listing suppressions and policy violations, handled Amazon Support cases, and maintained product variations using flat files.
+
+### Data Annotator
+**AnnotateNow** · Contract  
+*Sep 2024 – Jan 2025 | Remote*
+
+Performed data annotation and labeling tasks, ensuring accuracy and consistency across datasets. Contributed to data preparation and analysis workflows by organizing, reviewing, and validating information for quality and reliability.
