@@ -21,7 +21,6 @@ I enjoy exploring new technologies, solving problems, and building practical ski
 
 Karachi, Pakistan | 2026 – Present
 
----
 
 # 🛠️ Technical Skills
 
