@@ -9,7 +9,7 @@
 </p>
 
 # 🧭 Summary
-<img align="right" src="./profile.jpg" width="200" alt="Profile Picture" />
+<img align="right" src="./images(1).jpg" width="200" alt="Profile Picture" />
 
 Artificial Intelligence Undergraduate with a growing interest in AI, Machine Learning, and Data Analytics. Alongside my academic journey, I have hands-on experience in E-commerce Operations and pursue Data Visualization as a side hustle, transforming data into meaningful insights using tools like Tableau and Power BI.
 
